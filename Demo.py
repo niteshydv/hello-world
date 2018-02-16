@@ -6,3 +6,5 @@ def multiply(a,b):
   return a * b
 def divide(a,b):
   return a / b
+def add3(a,b,c):
+  return a + b + c
